@@ -139,6 +139,9 @@
     "nikic/php-parser": {
         "version": "v4.10.5"
     },
+    "php": {
+        "version": "7.3"
+    },
     "psr/cache": {
         "version": "1.0.1"
     },
@@ -341,6 +344,9 @@
     "symfony/options-resolver": {
         "version": "v5.3.0"
     },
+    "symfony/orm-pack": {
+        "version": "v2.1.0"
+    },
     "symfony/password-hasher": {
         "version": "v5.3.0"
     },
@@ -390,6 +396,9 @@
         "version": "v5.3.0"
     },
     "symfony/property-info": {
+        "version": "v5.3.0"
+    },
+    "symfony/proxy-manager-bridge": {
         "version": "v5.3.0"
     },
     "symfony/routing": {
